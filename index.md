@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
-<div class="flourish-embed » data-src="story/747620"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+<div class="flourish-embed » data-src="story/747620"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+                                                                                                                    
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
